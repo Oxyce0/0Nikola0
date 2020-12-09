@@ -31,11 +31,6 @@ You can contact me on `dev0nikola0@gmail.com`
 
 <br/>
 
-<details>
-    <summary>:notes: What I'm listening to</summary>
-    [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Nikola's Spotify" width="350" />](https://open.spotify.com/user/9lcai3q8jfjl8oasj7xg7khteb)
-</details>
-
 [vscode]: https://code.visualstudio.com
 [pycharm]: https://www.jetbrains.com/pycharm
 [python]: https://www.python.org
