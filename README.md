@@ -1,5 +1,5 @@
 ## Hi, I'm Nikola and I code for fun
----
+<br>
 You can contact me on `dev0nikola0@gmail.com`
 
 ---
@@ -22,13 +22,19 @@ You can contact me on `dev0nikola0@gmail.com`
 <!--[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
 
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css3]-->
+
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
 
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 
-<br />
+<br/>
+
+<details>
+    <summary>:notes: What I'm listening to</summary>
+    [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Nikola's Spotify" width="350" />](https://open.spotify.com/user/9lcai3q8jfjl8oasj7xg7khteb)
+</details>
 
 [vscode]: https://code.visualstudio.com
 [pycharm]: https://www.jetbrains.com/pycharm
