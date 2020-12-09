@@ -1,6 +1,6 @@
 ## Hi, I'm Nikola and I code for fun
 ---
-### You can contact me on `dev0nikola0@gmail.com`
+You can contact me on `dev0nikola0@gmail.com`
 
 ---
 
