@@ -32,7 +32,7 @@ You can contact me on `dev0nikola0@gmail.com`
 
 <br>
 
-[![Spotify](https://0nikola0.vercel.app/api/spotify)](https://open.spotify.com/user/Nikola)
+[![Spotify](https://0nikola0.vercel.app/api/spotify)](https://open.spotify.com/user/9lcai3q8jfjl8oasj7xg7khte)
 
 <br>
 
