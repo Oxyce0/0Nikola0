@@ -31,9 +31,10 @@ You can contact me on `dev0nikola0@gmail.com`
 [<img align="center" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 
 <br>
-
-[![Spotify](https://novatorem.0nikola0.vercel.app/api/spotify)](https://open.spotify.com/user/9lcai3q8jfjl8oasj7xg7khte)
-
+<details>
+  <summary>:notes: What I'm listening to</summary>
+  [![Spotify](https://novatorem.0nikola0.vercel.app/api/spotify)](https://open.spotify.com/user/9lcai3q8jfjl8oasj7xg7khte)
+</details
 <br>
 
 
