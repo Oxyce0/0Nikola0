@@ -30,7 +30,12 @@ You can contact me on `dev0nikola0@gmail.com`
 
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 
-<br/>
+<br>
+
+[![Spotify](https://0nikola0.vercel.app/api/spotify)](https://open.spotify.com/user/Nikola)
+
+<br>
+
 
 [vscode]: https://code.visualstudio.com
 [pycharm]: https://www.jetbrains.com/pycharm
