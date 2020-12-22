@@ -17,7 +17,7 @@ You can contact me on `dev0nikola0@gmail.com`
 
 <br />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0Nikola0&theme=dark&hide_border=true&layout=compact"/>
+<img align="left" style="margin-top: 5px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0Nikola0&theme=dark&hide_border=true&layout=compact"/>
 
 <br />
 <br />
