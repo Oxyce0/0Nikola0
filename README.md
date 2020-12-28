@@ -7,7 +7,7 @@ You can contact me on `dev0nikola0@gmail.com`
 - :computer: An aspiring developer :necktie:
 - :man_student: 18 years old
 - :closed_book: Currently learning [Django](https://www.djangoproject.com/)
-- :tv: I enjot watching movies and tv, a lot
+- :tv: I enjoy watching movies and tv, a lot
 
 <br />  
 
