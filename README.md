@@ -5,7 +5,7 @@ You can contact me on `dev0nikola0@gmail.com`
 
 ### About me: 
 - :computer: An aspiring developer :necktie:
-- :man_student: I'm still in high school
+- :man_student: 18 years old
 - :closed_book: Currently learning [Django](https://www.djangoproject.com/)
 - :tv: I enjot watching movies and tv, a lot
 
